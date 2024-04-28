@@ -22,6 +22,12 @@ Make sure you have the following dependencies installed:
 - `torch`
 - `numpy`
 - `PIL`
-
 You can install them using pip:
+
+#Features
+Generates 5 output images for each product image with different backgrounds.
+Utilizes a variety of background images or text prompts to enhance output.
+Ensures brand names and product images are clearly visible in the output images.
+Provides seamless merging of product images with backgrounds.
+Capable of generating output images in under 10 minutes.
 
