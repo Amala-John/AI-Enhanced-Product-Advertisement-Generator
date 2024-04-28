@@ -30,4 +30,12 @@ Utilizes a variety of background images or text prompts to enhance output.
 Ensures brand names and product images are clearly visible in the output images.
 Provides seamless merging of product images with backgrounds.
 Capable of generating output images in under 10 minutes.
+## Usage
+Place product images in the input_product folder.
+Provide background images or text prompts for generating background images.
+Run the script to generate output images:
+Output images will be saved in the output_images folder.
+##Solution Details
+Model/Framework: This project utilizes different stable diffusion inpainting models for image generation.
+Approach: The solution employs a combination of pre-trained models and custom modifications to ensure high-quality output images. Background images or text prompts are carefully selected to enhance the aesthetic appeal of the advertisements while prominently featuring the product and brand name.
 
